@@ -25,7 +25,7 @@ and generated interactive 3D surface models from the MRHead dataset.
 ![All Panels](ALL_Panels.png)
 
 ### Front View — 3D Surface Model
-![Front View](Front View.png)
+![Front View](Front_View.png)
 
 ### Lateral View — 3D Surface Model
 ![Side View](Side_View.png)
