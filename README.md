@@ -24,8 +24,6 @@ and generated interactive 3D surface models from the MRHead dataset.
 ### Multi-Planar Reconstruction + 3D View
 ![All Panels](ALL_Panels.png)
 
-### Front View — 3D Surface Model
-![Front View](FrontView.png)
 
 ### Lateral View — 3D Surface Model
 ![Side View](Side_View.png)
